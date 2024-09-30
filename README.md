@@ -11,11 +11,10 @@ Advanced sql scanner tools
   pip install -r requirements.txt
   ```
   - Run
-    ```bash
-    python sqlfoce.py --help
-    ```
-  ========================================================================================================================================================================
-  # Features & How to use
+  ```bash
+  python sqlfoce.py --help
+  ```
+  # How to use
   - Basic scan
     ```bash
     python sqlforce.py -u <url> -p <payloads.txt>
