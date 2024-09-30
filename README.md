@@ -10,7 +10,7 @@ Advanced sql scanner tools
   ```bash
   pip install -r requirements.txt
   ```
-  - Run
+- Run
   ```bash
   python sqlfoce.py --help
   ```
