@@ -24,4 +24,4 @@ Advanced sql scanner tools
     python sql_force.py -u <url> -p <payloads.txt> -p <proxy.txt> -ua <ua.txt>
     ```
 
-    [telegram me](https://t.me/adjidev)
+    [telegram me](https://t.me/rizkykianadji)
